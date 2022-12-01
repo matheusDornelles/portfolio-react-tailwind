@@ -8,19 +8,19 @@ const About = () => {
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
             <p className='text-4xl font-bold inline border-b-4 border-pink-600'>
-              About
+              Sobre
             </p>
           </div>
           <div></div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. Matheus Dornelles, nice to meet you. Please take a look around.</p>
+              <p>Olá, seja bem vindo.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating responsive
-              softwares with React and JavaScript.
+              <p>Sou apaixonado em construir softwares que melhoram
+               a vida das pessoas ao meu redor. Sou especialista em criar responsivos
+               softwares com React e JavaScript.
               </p>  
             </div>
           </div>
