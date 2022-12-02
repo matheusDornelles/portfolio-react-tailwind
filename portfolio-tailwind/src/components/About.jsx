@@ -18,9 +18,8 @@ const About = () => {
               <p>Olá, seja bem vindo.</p>
             </div>
             <div>
-              <p>Sou apaixonado em construir softwares que melhoram
-               a vida das pessoas ao meu redor. Sou especialista em criar responsivos
-               softwares com React e JavaScript.
+              <p>Sou formado em Administração e estou finalizando o curso de 
+                Análise e desenvolvimento de sistemas.
               </p>  
             </div>
           </div>

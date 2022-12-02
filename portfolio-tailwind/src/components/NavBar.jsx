@@ -78,9 +78,22 @@ const NavBar = () => {
           </Link>
         </li>
         <li className='py-6 text-4xl'>
+            <a className='flex justify-between items-center w-full text-gray-300'
+              href="https://github.com/matheusDornelles">
+              Github<FaGithub size={30} />
+            </a>
+        </li>
+        <li className='py-6 text-4xl'>
+          <a className='flex justify-between items-center w-full text-gray-300'
+            href="https://www.linkedin.com/in/matheus-dornelles-02942791/">
+            Linkedin<FaLinkedin size={30} />
+          </a>
+        </li>
+        <li className='py-6 text-4xl'>
           <Link onClick={handleClick} to="contact" smooth={true} duration={500} >
             Contato
           </Link>
+
         </li>
       </ul>
 
